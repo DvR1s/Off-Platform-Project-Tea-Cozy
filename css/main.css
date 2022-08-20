@@ -1,0 +1,41 @@
+html {
+    background-color: black;
+    width: 1200px;
+    margin: auto;
+}
+
+h2 {
+    color: white;
+}
+
+.head {
+    vertical-align: middle;
+    height: 69px;
+}
+
+.navbar {
+    color: white;
+    display: inline-block;
+    float: right;
+}
+
+.navbar li {
+    display: inline-block;
+    text-decoration: underline;
+    margin-right: 15px;
+    font-size: 20px;
+    opacity: 0.5;
+}
+
+.midle {
+    background-color: yellowgreen;
+    background-image: url(../css/pictures/img-mission-background.jpg);
+    width: 1200px;
+    height: 700px;
+}
+
+#Logo {
+    height: 50px;
+    margin-left: 10px;
+    opacity: 0.5;
+}
